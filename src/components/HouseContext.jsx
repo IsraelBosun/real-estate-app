@@ -34,14 +34,14 @@ const HouseContextProvider = ({ children }) => {
       return house.type
     });
      // remove duplicates
-    const uniqueProperties = ['Location (any)', ...new Set(allProperties)]
+    const uniqueProperties = ['Property type (any)', ...new Set(allProperties)]
 
     // set Properties state
     setProperties(uniqueProperties)
   }, []);
 
   const handleClick = () => {
-    console.log('clicked')
+    console.log(country, property)
   }
    
 
