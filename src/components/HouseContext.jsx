@@ -98,7 +98,7 @@ const HouseContextProvider = ({ children }) => {
       }
 
       // if country and property is not default
-      if (!isDefault(country) && !isDefault(property)) {
+      if (!isDefault(country) && !isDefault(property) && isDefault(price)) {
         return house.country === country && house.type === property;
       }
 
