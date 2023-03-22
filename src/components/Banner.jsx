@@ -12,7 +12,7 @@ const Banner = () => {
                     <span className='text-violet-700'>Buy</span> Your Dream House With Us
                   </h1>
                   <p className='max-w-[480px] mb-8'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est consequuntur illo dolorem reprehenderit pariatur fugit. Animi rerum qui ex consectetur.</p>
+                  Find Your Dream Home with Our Exceptional Real Estate Services: Trustworthy, and Dedicated to Helping You Achieve Your Goals. Experience the Difference Today.</p>
               </div>
               <div className='hidden flex-1 lg:flex justify-end items-end'>
               <img src={Image} alt="" />
