@@ -1,4 +1,4 @@
-[Banner Image](real-estate-app/src/assets/img
+[Banner Image](src/assets/img
 /real-estate-website.png)
 
 # Real Estate Website
