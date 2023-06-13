@@ -17,13 +17,13 @@ This is a real estate website built with React and Vite. It allows users to brow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-estate-website.git
+   git clone https://github.com/IsraelBosun/real-estate-app.git
    ```
    
 2. Navigate to the project directory:
 
 ```bash
-cd real-estate-website
+cd real-estate-app
 ```
 Install the dependencies:
 
@@ -38,7 +38,6 @@ npm run dev
 Open your browser and visit http://localhost:5173 to access the website.
 
 ## Usage
-1. On the home page, you can log in or sign up to access additional features.
 2. Use the search filters to select your desired location, property type, and price range.
 3. Browse the available listings and click on a property to view more details.
 4. On the property detail page, you can see the property's name, location, type, price, number of bedrooms and bathrooms, size in square feet, and a description.
