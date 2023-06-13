@@ -1,4 +1,5 @@
-[Banner Image] (https://www.linkpicture.com/q/real-estate-website.png)
+[Banner Image](real-estate-app/src/assets/img
+/real-estate-website.png)
 
 # Real Estate Website
 
